@@ -1,0 +1,15 @@
+C:\Users\stran\OneDrive\Desktop\Progect2\Progect2\obj\Debug\net6.0\Progect2.csproj.AssemblyReference.cache
+C:\Users\stran\OneDrive\Desktop\Progect2\Progect2\obj\Debug\net6.0\Progect2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\stran\OneDrive\Desktop\Progect2\Progect2\obj\Debug\net6.0\Progect2.AssemblyInfoInputs.cache
+C:\Users\stran\OneDrive\Desktop\Progect2\Progect2\obj\Debug\net6.0\Progect2.AssemblyInfo.cs
+C:\Users\stran\OneDrive\Desktop\Progect2\Progect2\obj\Debug\net6.0\Progect2.csproj.CoreCompileInputs.cache
+C:\Users\stran\OneDrive\Desktop\Progect2\Progect2\bin\Debug\net6.0\Progect2.exe
+C:\Users\stran\OneDrive\Desktop\Progect2\Progect2\bin\Debug\net6.0\Progect2.deps.json
+C:\Users\stran\OneDrive\Desktop\Progect2\Progect2\bin\Debug\net6.0\Progect2.runtimeconfig.json
+C:\Users\stran\OneDrive\Desktop\Progect2\Progect2\bin\Debug\net6.0\Progect2.dll
+C:\Users\stran\OneDrive\Desktop\Progect2\Progect2\bin\Debug\net6.0\Progect2.pdb
+C:\Users\stran\OneDrive\Desktop\Progect2\Progect2\obj\Debug\net6.0\Progect2.dll
+C:\Users\stran\OneDrive\Desktop\Progect2\Progect2\obj\Debug\net6.0\refint\Progect2.dll
+C:\Users\stran\OneDrive\Desktop\Progect2\Progect2\obj\Debug\net6.0\Progect2.pdb
+C:\Users\stran\OneDrive\Desktop\Progect2\Progect2\obj\Debug\net6.0\Progect2.genruntimeconfig.cache
+C:\Users\stran\OneDrive\Desktop\Progect2\Progect2\obj\Debug\net6.0\ref\Progect2.dll
